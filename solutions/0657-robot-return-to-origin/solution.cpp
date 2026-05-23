@@ -1,21 +1,21 @@
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        int countU = 0;
+        int countU =0;
         int countD = 0;
-        int countR = 0;
-        int countL = 0;
-        for(int i = 0; i < moves.size(); i++){
-            if(moves[i] == 'R'){
-                countR++;
+        int countR =0;
+        int countL =0;
+        for(int i = 0; i<moves.size(); i++){
+            if(moves[i]=='R'){
+                countR++;;
             }
-            if(moves[i] == 'L'){
-                countL++;
+            if(moves[i]=='L'){
+             countL++;
             }
-            if(moves[i] == 'U'){
+            if(moves[i]=='U'){
                 countU++;
             }
-            if(moves[i] == 'D'){
+            if(moves[i]=='D'){
                 countD++;
             }
         }
