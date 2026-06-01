@@ -11,23 +11,23 @@
 ## 📊 Live Stats
 
 <!-- STATS_START -->
-**Total problems solved:** `25`  
+**Total problems solved:** `26`  
 
-**Last updated (UTC):** `2026-06-01 18:53:23`
+**Last updated (UTC):** `2026-06-01 18:53:44`
 
 ### Difficulty breakdown
 
 | Difficulty | Count |
 |-----------|-------|
-| Easy | 17 |
+| Easy | 18 |
 | Medium | 8 |
 
 ### Tag / topic breakdown
 
 | Topic / Tag | Count |
 |------------|-------|
+| Array | 10 |
 | Math | 10 |
-| Array | 9 |
 | String | 6 |
 | Two Pointers | 5 |
 | Hash Map | 3 |
@@ -38,6 +38,7 @@
 | Brainteaser | 1 |
 | Hash Table | 1 |
 | Queue | 1 |
+| Sliding Window | 1 |
 <!-- STATS_END -->
 
 ---
