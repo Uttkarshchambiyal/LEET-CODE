@@ -11,23 +11,23 @@
 ## 📊 Live Stats
 
 <!-- STATS_START -->
-**Total problems solved:** `43`  
+**Total problems solved:** `44`  
 
-**Last updated (UTC):** `2026-06-01 19:01:04`
+**Last updated (UTC):** `2026-06-01 19:01:42`
 
 ### Difficulty breakdown
 
 | Difficulty | Count |
 |-----------|-------|
-| Easy | 33 |
+| Easy | 34 |
 | Medium | 10 |
 
 ### Tag / topic breakdown
 
 | Topic / Tag | Count |
 |------------|-------|
-| Array | 22 |
-| Math | 16 |
+| Array | 23 |
+| Math | 17 |
 | String | 8 |
 | Two Pointers | 6 |
 | Bit Manipulation | 5 |
