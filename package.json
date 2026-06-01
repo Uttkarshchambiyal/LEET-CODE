@@ -1,0 +1,7 @@
+{
+  "name": "leet-code-readme",
+  "version": "1.0.0",
+  "scripts": {
+    "generate-readme": "node scripts/generate-readme.js"
+  }
+}
