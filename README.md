@@ -1,12 +1,10 @@
 <div align="center">
 
-  <!-- Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LeetCode%20Journey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Uttkarsh%20Chambiyal%20%7C%20DSA%20%26%20Competitive%20Programming&descAlignY=55&descSize=16" width="100%" />
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LeetCode%20Journey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Uttkarsh%20Chambiyal%20%7C%20DSA%20%26%20Competitive%20Programming&descAlignY=55&descSize=16" width="100%"/>
 
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFA116&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5+Daily+LeetCode+Grinder;%F0%9F%92%A1+DSA+%26+Problem+Solving+Enthusiast;%F0%9F%9A%80+Building+Strong+CS+Foundations;%E2%9A%A1+C%2B%2B+Solutions+%7C+Clean+%26+Optimal" alt="Typing SVG" />
-
-</div>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFA116&center=true&vCenter=true&width=600&lines=🔥+Daily+LeetCode+Grinder;💡+DSA+%26+Problem+Solving+Enthusiast;🚀+Building+Strong+CS+Foundations;⚡+C%2B%2B+Solutions+%7C+Clean+%26+Optimal" alt="Typing SVG" />
 
 <br/>
 
@@ -29,23 +27,23 @@
 <div align="center">
 
 <!-- STATS_START -->
-**Total problems solved:** `61`  
+**Total problems solved:** `62`  
 
-**Last updated (UTC):** `2026-06-01 19:15:27`
+**Last updated (UTC):** `2026-06-01 19:18:15`
 
 ### Difficulty breakdown
 
 | Difficulty | Count |
 |-----------|-------|
-| Easy | 51 |
+| Easy | 52 |
 | Medium | 10 |
 
 ### Tag / topic breakdown
 
 | Topic / Tag | Count |
 |------------|-------|
-| Array | 33 |
-| Math | 25 |
+| Array | 34 |
+| Math | 26 |
 | String | 13 |
 | Two Pointers | 8 |
 | Hash Table | 8 |
