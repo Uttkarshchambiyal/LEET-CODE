@@ -8,6 +8,28 @@
 
 ---
 
+## 📊 Live Stats
+
+<!-- STATS_START -->
+**Total problems solved:** `0`  
+
+**Last updated (UTC):** `2026-06-01 18:36:31`
+
+### Difficulty breakdown
+
+| Difficulty | Count |
+|-----------|-------|
+| - | 0 |
+
+### Tag / topic breakdown
+
+| Topic / Tag | Count |
+|------------|-------|
+| - | 0 |
+<!-- STATS_END -->
+
+---
+
 ## 📌 Overview
 
 This repository contains solutions to LeetCode and other coding problems, focused on building a strong base in **Data Structures & Algorithms** and **competitive programming**.
@@ -16,44 +38,40 @@ This repository contains solutions to LeetCode and other coding problems, focuse
 - Suitable for revision and interview preparation.
 - Continuously updated as new problems are solved.
 
----
-
 ## 🧠 Topics Covered
 
 ### Core DSA
 
-- Arrays and strings  
-- Two pointers and sliding window  
-- Hash maps, sets, and frequency tables  
-- Sorting and searching patterns  
+- Arrays and strings
+- Two pointers and sliding window
+- Hash maps, sets, and frequency tables
+- Sorting and searching patterns
 
 ### Advanced DSA
 
-- Recursion and backtracking  
-- Dynamic programming (1D and 2D)  
-- Trees and binary trees  
-- Graphs (DFS, BFS, basic shortest paths)  
-- Bit manipulation fundamentals  
+- Recursion and backtracking
+- Dynamic programming (1D and 2D)
+- Trees and binary trees
+- Graphs (DFS, BFS, basic shortest paths)
+- Bit manipulation fundamentals
 
 ### Problem Patterns
 
-- Prefix/suffix techniques  
-- Kadane-like patterns  
-- Greedy strategies  
-- Number theory and math-based tricks  
-
----
+- Prefix/suffix techniques
+- Kadane-like patterns
+- Greedy strategies
+- Number theory and math-based tricks
 
 ## 📋 Topic-wise Summary Table
 
-A quick overview of how many problems you’ve solved in each category.  
-Update counts and links as you add more problems. [web:17][web:18][web:30]
+A quick overview of how many problems you've solved in each category.  
+Update counts and links as you add more problems.
 
-| Topic          | Approx Count | Difficulty Spread          | Notes / Link                    |
-| ------------- | ------------ | -------------------------- | -------------------------------- |
-| Arrays        | 0            | Easy / Medium              | Will add classic array patterns |
-| Strings       | 0            | Easy / Medium              | TBD                              |
-| Hash / Maps   | 0            | Easy / Medium              | TBD                              |
-| Two Pointers  | 0            | Easy / Medium              | TBD                              |
-| Sliding Window| 0            | Medium                     | TBD                              |
-| DP            | 0            | Medium / Hard              | Plan to cover 1D & 2D DP        |
+| Topic         | Approx Count | Difficulty Spread   | Notes / Link                         |
+|---------------|--------------|---------------------|--------------------------------------|
+| Arrays        | 0            | Easy / Medium       | Will add classic array patterns      |
+| Strings       | 0            | Easy / Medium       | TBD                                  |
+| Hash / Maps   | 0            | Easy / Medium       | TBD                                  |
+| Two Pointers  | 0            | Easy / Medium       | TBD                                  |
+| Sliding Window| 0            | Medium              | TBD                                  |
+| DP            | 0            | Medium / Hard       | Plan to cover 1D & 2D DP             |
