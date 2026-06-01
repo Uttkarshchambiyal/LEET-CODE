@@ -1,0 +1,6 @@
+{
+  "id": 3704,
+  "title": "Count Partitions with Even Sum Difference",
+  "difficulty": "Easy",
+  "tags": ["Array", "Math", "Prefix Sum"]
+}
