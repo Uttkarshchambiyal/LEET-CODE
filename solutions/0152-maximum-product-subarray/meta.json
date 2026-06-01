@@ -1,0 +1,6 @@
+{
+  "id": 152,
+  "title": "Maximum Product Subarray",
+  "difficulty": "Medium",
+  "tags": ["Array", "DP"]
+}
