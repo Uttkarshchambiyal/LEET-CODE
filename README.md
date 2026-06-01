@@ -1,19 +1,35 @@
-# 🚀 LEET-CODE Journey
+<div align="center">
 
-![Repo Size](https://img.shields.io/github/repo-size/Uttkarshchambiyal/LEET-CODE?color=00c853&style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/Uttkarshchambiyal/LEET-CODE?color=2962ff&style=for-the-badge)
-![Languages](https://img.shields.io/github/languages/top/Uttkarshchambiyal/LEET-CODE?color=ff6d00&style=for-the-badge)
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LeetCode%20Journey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Uttkarsh%20Chambiyal%20%7C%20DSA%20%26%20Competitive%20Programming&descAlignY=55&descSize=16" width="100%"/>
 
-> A curated collection of LeetCode and DSA problems solved in C++, maintained by **Uttkarsh** to track progress and build strong problem-solving foundations.
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFA116&center=true&vCenter=true&width=600&lines=🔥+Daily+LeetCode+Grinder;💡+DSA+%26+Problem+Solving+Enthusiast;🚀+Building+Strong+CS+Foundations;⚡+C%2B%2B+Solutions+%7C+Clean+%26+Optimal" alt="Typing SVG" />
+
+<br/>
+
+<!-- Badges Row 1 -->
+[![GitHub repo size](https://img.shields.io/github/repo-size/Uttkarshchambiyal/LEET-CODE?color=FFA116&style=for-the-badge&logo=github&logoColor=white&label=Repo%20Size)](https://github.com/Uttkarshchambiyal/LEET-CODE)
+[![Last Commit](https://img.shields.io/github/last-commit/Uttkarshchambiyal/LEET-CODE?color=00b8a3&style=for-the-badge&logo=git&logoColor=white&label=Last%20Commit)](https://github.com/Uttkarshchambiyal/LEET-CODE)
+[![Top Language](https://img.shields.io/github/languages/top/Uttkarshchambiyal/LEET-CODE?color=f63b3b&style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Uttkarshchambiyal/LEET-CODE)
+
+<!-- Badges Row 2 -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-Uttkarsh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Uttkarshchambiyal)
+[![GitHub followers](https://img.shields.io/github/followers/Uttkarshchambiyal?color=6e40c9&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uttkarshchambiyal)
+[![Profile Views](https://komarev.com/ghpvc/?username=Uttkarshchambiyal&color=FFA116&style=for-the-badge&label=Profile+Views)](https://github.com/Uttkarshchambiyal)
+
+</div>
 
 ---
 
-## 📊 Live Stats
+## 🏆 Live Problem Stats
+
+<div align="center">
 
 <!-- STATS_START -->
 **Total problems solved:** `53`  
 
-**Last updated (UTC):** `2026-06-01 19:07:21`
+**Last updated (UTC):** `2026-06-01 19:07:58`
 
 ### Difficulty breakdown
 
@@ -51,50 +67,112 @@
 | Enumeration | 1 |
 <!-- STATS_END -->
 
+</div>
+
 ---
 
-## 📌 Overview
+## 📈 Progress Visualization
 
-This repository contains solutions to LeetCode and other coding problems, focused on building a strong base in **Data Structures & Algorithms** and **competitive programming**.
+<div align="center">
 
-- Clean and readable C++ solutions using STL.
-- Suitable for revision and interview preparation.
-- Continuously updated as new problems are solved.
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | 🎯 Total |
+|:---:|:---:|:---:|:---:|
+| Beginner Friendly | Interview Level | Expert Challenge | All Problems |
+
+<!-- LeetCode Stats Card -->
+[![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Uttkarshchambiyal&theme=dark&border=FFA116)](https://leetcode.com/Uttkarshchambiyal)
+
+</div>
+
+---
 
 ## 🧠 Topics Covered
 
-### Core DSA
+<div align="center">
 
-- Arrays and strings
-- Two pointers and sliding window
-- Hash maps, sets, and frequency tables
-- Sorting and searching patterns
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    DSA MASTERY ROADMAP                       ║
+╠══════════════════╦═══════════════════╦═══════════════════════╣
+║   CORE DSA       ║   ADVANCED DSA    ║   PATTERNS            ║
+╠══════════════════╬═══════════════════╬═══════════════════════╣
+║ ✅ Arrays        ║ ✅ Recursion      ║ ✅ Two Pointers       ║
+║ ✅ Strings       ║ ✅ Backtracking   ║ ✅ Sliding Window     ║
+║ ✅ Hash Maps     ║ ✅ Dynamic Prog.  ║ ✅ Prefix Sum         ║
+║ ✅ Sorting       ║ 🔄 Trees          ║ ✅ Greedy             ║
+║ ✅ Bit Manip.    ║ 🔄 Graphs         ║ ✅ Number Theory      ║
+║ ✅ Math/Number   ║ 🔄 Heaps          ║ 🔄 Binary Search      ║
+╚══════════════════╩═══════════════════╩═══════════════════════╝
+```
 
-### Advanced DSA
+*✅ = Practiced | 🔄 = In Progress*
 
-- Recursion and backtracking
-- Dynamic programming (1D and 2D)
-- Trees and binary trees
-- Graphs (DFS, BFS, basic shortest paths)
-- Bit manipulation fundamentals
+</div>
 
-### Problem Patterns
+---
 
-- Prefix/suffix techniques
-- Kadane-like patterns
-- Greedy strategies
-- Number theory and math-based tricks
+## 🗂️ Repository Structure
 
-## 📋 Topic-wise Summary Table
+```bash
+📦 LEET-CODE/
+├── 📁 .github/
+│   └── 📁 workflows/
+│       └── ⚙️  update-readme.yml      # GitHub Actions auto-updater
+├── 📁 scripts/
+│   └── 🔧 generate-readme.js         # Stats generator script
+├── 📁 solutions/
+│   ├── 📁 0001-two-sum/
+│   │   ├── 💻 solution.cpp
+│   │   └── 📄 meta.json
+│   ├── 📁 0242-valid-anagram/
+│   └── 📁 ...more problems
+├── 📄 README.template.md             # ← Edit this file
+├── 📄 README.md                      # ← Auto-generated (don't edit)
+└── 📦 package.json
+```
 
-A quick overview of how many problems you've solved in each category.  
-Update counts and links as you add more problems.
+---
 
-| Topic         | Approx Count | Difficulty Spread   | Notes / Link                         |
-|---------------|--------------|---------------------|--------------------------------------|
-| Arrays        | 0            | Easy / Medium       | Will add classic array patterns      |
-| Strings       | 0            | Easy / Medium       | TBD                                  |
-| Hash / Maps   | 0            | Easy / Medium       | TBD                                  |
-| Two Pointers  | 0            | Easy / Medium       | TBD                                  |
-| Sliding Window| 0            | Medium              | TBD                                  |
-| DP            | 0            | Medium / Hard       | Plan to cover 1D & 2D DP             |
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,vscode,github,git,linux&theme=dark" />
+
+| Tool | Purpose |
+|------|---------|
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) | Primary language for all solutions |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) | Problem platform |
+| ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) | Auto README updates |
+| ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | Code editor |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | Version control |
+
+</div>
+
+---
+
+## 📅 Activity
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Uttkarshchambiyal&theme=react-dark&bg_color=0d1117&color=FFA116&line=FFA116&point=ffffff&area=true&hide_border=true)](https://github.com/Uttkarshchambiyal)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Uttkarshchambiyal-181717?style=for-the-badge&logo=github)](https://github.com/Uttkarshchambiyal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Uttkarshchambiyal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uttkarshchambiyal)
+
+<br/>
+
+*If this helped you, please ⭐ star the repo — it motivates me to keep solving!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
