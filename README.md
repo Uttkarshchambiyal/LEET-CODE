@@ -27,15 +27,15 @@
 <div align="center">
 
 <!-- STATS_START -->
-**Total problems solved:** `63`  
+**Total problems solved:** `64`  
 
-**Last updated (UTC):** `2026-06-06 17:35:03`
+**Last updated (UTC):** `2026-06-06 17:35:55`
 
 ### Difficulty breakdown
 
 | Difficulty | Count |
 |-----------|-------|
-| Easy | 53 |
+| Easy | 54 |
 | Medium | 10 |
 
 ### Tag / topic breakdown
@@ -47,7 +47,7 @@
 | String | 13 |
 | Two Pointers | 8 |
 | Hash Table | 8 |
-| Bit Manipulation | 5 |
+| Bit Manipulation | 6 |
 | Recursion | 4 |
 | Sorting | 4 |
 | Prefix Sum | 4 |
