@@ -1,28 +1,24 @@
 <div align="center">
 
-  <!-- Animated Banner -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LeetCode%20Journey&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"
-    width="100%"
-  />
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LeetCode%20Journey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Uttkarsh%20Chambiyal%20%7C%20DSA%20%26%20Competitive%20Programming&descAlignY=55&descSize=16" width="100%"/>
 
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFA116&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5+Daily+LeetCode+Grinder;%F0%9F%92%A1+DSA+%26+Problem+Solving+Enthusiast;%F0%9F%9A%80+Building+Strong+CS+Foundations;%E2%9A%A1+C%2B%2B+Solutions+%7C+Clean+%26+Optimal" alt="Typing SVG" />
-
-</div>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFA116&center=true&vCenter=true&width=600&lines=🔥+Daily+LeetCode+Grinder;💡+DSA+%26+Problem+Solving+Enthusiast;🚀+Building+Strong+CS+Foundations;⚡+C%2B%2B+Solutions+%7C+Clean+%26+Optimal" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
+<!-- Badges Row 1 -->
+[![GitHub repo size](https://img.shields.io/github/repo-size/Uttkarshchambiyal/LEET-CODE?color=FFA116&style=for-the-badge&logo=github&logoColor=white&label=Repo%20Size)](https://github.com/Uttkarshchambiyal/LEET-CODE)
+[![Last Commit](https://img.shields.io/github/last-commit/Uttkarshchambiyal/LEET-CODE?color=00b8a3&style=for-the-badge&logo=git&logoColor=white&label=Last%20Commit)](https://github.com/Uttkarshchambiyal/LEET-CODE)
+[![Top Language](https://img.shields.io/github/languages/top/Uttkarshchambiyal/LEET-CODE?color=f63b3b&style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Uttkarshchambiyal/LEET-CODE)
 
-  <!-- Badges Row 1 -->
-  [![GitHub repo size](https://img.shields.io/github/repo-size/Uttkarshchambiyal/LEET-CODE?color=FFA116&style=for-the-badge&logo=github&logoColor=white&label=Repo%20Size)](https://github.com/Uttkarshchambiyal/LEET-CODE)
-  [![Last Commit](https://img.shields.io/github/last-commit/Uttkarshchambiyal/LEET-CODE?color=00b8a3&style=for-the-badge&logo=git&logoColor=white&label=Last%20Commit)](https://github.com/Uttkarshchambiyal/LEET-CODE)
-  [![Top Language](https://img.shields.io/github/languages/top/Uttkarshchambiyal/LEET-CODE?color=f63b3b&style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Uttkarshchambiyal/LEET-CODE)
+<!-- Badges Row 2 -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-Uttkarsh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Uttkarshchambiyal)
+[![GitHub followers](https://img.shields.io/github/followers/Uttkarshchambiyal?color=6e40c9&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uttkarshchambiyal)
+[![Profile Views](https://komarev.com/ghpvc/?username=Uttkarshchambiyal&color=FFA116&style=for-the-badge&label=Profile+Views)](https://github.com/Uttkarshchambiyal)
 
 </div>
-<!-- Badges Row 2 -->
-
 
 ---
 
@@ -31,31 +27,31 @@
 <div align="center">
 
 <!-- STATS_START -->
-**Total problems solved:** `61`  
+**Total problems solved:** `63`  
 
-**Last updated (UTC):** `2026-06-01 19:15:27`
+**Last updated (UTC):** `2026-06-06 17:33:00`
 
 ### Difficulty breakdown
 
 | Difficulty | Count |
 |-----------|-------|
-| Easy | 51 |
+| Easy | 53 |
 | Medium | 10 |
 
 ### Tag / topic breakdown
 
 | Topic / Tag | Count |
 |------------|-------|
-| Array | 33 |
-| Math | 25 |
+| Array | 35 |
+| Math | 27 |
 | String | 13 |
 | Two Pointers | 8 |
 | Hash Table | 8 |
 | Bit Manipulation | 5 |
 | Recursion | 4 |
 | Sorting | 4 |
+| Prefix Sum | 4 |
 | Hash Map | 3 |
-| Prefix Sum | 3 |
 | DP | 2 |
 | Simulation | 2 |
 | Counting | 2 |
