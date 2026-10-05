@@ -1,0 +1,10 @@
+{
+  "id": 150,
+  "title": "Evaluate Reverse Polish Notation",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Stack"
+  ]
+}
