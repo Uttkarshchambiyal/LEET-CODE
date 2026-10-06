@@ -1,0 +1,10 @@
+{
+  "id": 739,
+  "title": "Daily Temperatures",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ]
+}
