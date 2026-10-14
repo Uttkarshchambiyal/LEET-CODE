@@ -27,15 +27,15 @@
 <div align="center">
 
 <!-- STATS_START -->
-**Total problems solved:** `73`  
+**Total problems solved:** `74`  
 
-**Last updated (UTC):** `2026-10-08 03:55:49`
+**Last updated (UTC):** `2026-10-14 21:47:32`
 
 ### Difficulty breakdown
 
 | Difficulty | Count |
 |-----------|-------|
-| Easy | 58 |
+| Easy | 59 |
 | Medium | 15 |
 
 ### Tag / topic breakdown
@@ -49,7 +49,7 @@
 | Hash Table | 8 |
 | Bit Manipulation | 7 |
 | Stack | 5 |
-| Recursion | 4 |
+| Recursion | 5 |
 | Sorting | 4 |
 | Simulation | 4 |
 | Prefix Sum | 4 |
@@ -59,6 +59,7 @@
 | Memoization | 2 |
 | Counting | 2 |
 | Greedy | 1 |
+| Linked List | 1 |
 | Brainteaser | 1 |
 | Divide and Conquer | 1 |
 | Queue | 1 |
