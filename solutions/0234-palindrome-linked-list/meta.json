@@ -1,0 +1,11 @@
+{
+  "id": 234,
+  "title": "Palindrome Linked List",
+  "difficulty": "Easy",
+  "tags": [
+    "Linked List",
+    "Two Pointers",
+    "Stack",
+    "Recursion"
+  ]
+}
