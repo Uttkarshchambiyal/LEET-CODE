@@ -1,0 +1,10 @@
+{
+  "id": 560,
+  "title": "Subarray Sum Equals K",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ]
+}
