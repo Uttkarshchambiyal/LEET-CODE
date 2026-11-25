@@ -1,0 +1,9 @@
+{
+  "id": 1021,
+  "title": "Remove Outermost Parentheses",
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "Stack"
+  ]
+}

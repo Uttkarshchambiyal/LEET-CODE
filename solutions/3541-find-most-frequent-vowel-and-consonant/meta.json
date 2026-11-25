@@ -1,0 +1,10 @@
+{
+  "id": 3541,
+  "title": "Find Most Frequent Vowel and Consonant",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ]
+}
