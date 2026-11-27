@@ -27,15 +27,16 @@
 <div align="center">
 
 <!-- STATS_START -->
-**Total problems solved:** `112`  
+**Total problems solved:** `114`  
 
-**Last updated (UTC):** `2026-11-26 18:21:41`
+**Last updated (UTC):** `2026-11-27 17:35:54`
 
 ### Difficulty breakdown
 
 | Difficulty | Count |
 |-----------|-------|
-| Easy | 84 |
+| Easy | 85 |
+| Hard | 1 |
 | Medium | 28 |
 
 ### Tag / topic breakdown
@@ -43,11 +44,11 @@
 | Topic / Tag | Count |
 |------------|-------|
 | Array | 54 |
-| Math | 38 |
+| Math | 39 |
 | String | 23 |
 | Two Pointers | 18 |
 | Hash Table | 17 |
-| Linked List | 15 |
+| Linked List | 16 |
 | Recursion | 10 |
 | Stack | 7 |
 | Bit Manipulation | 7 |
@@ -57,14 +58,17 @@
 | Counting | 5 |
 | Hash Map | 3 |
 | Greedy | 3 |
+| Number Theory | 3 |
+| Divide and Conquer | 2 |
 | DP | 2 |
 | Dynamic Programming | 2 |
 | Memoization | 2 |
 | Binary Search | 2 |
-| Number Theory | 2 |
+| Heap (Priority Queue) | 1 |
+| Merge Sort | 1 |
+| Tournament Sort | 1 |
 | String Matching | 1 |
 | Brainteaser | 1 |
-| Divide and Conquer | 1 |
 | Queue | 1 |
 | Sliding Window | 1 |
 | Monotonic Stack | 1 |
